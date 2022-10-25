@@ -1,0 +1,7 @@
+print("Enter your name: ")
+name1= input()
+print("Your name is ", name1)
+print("Enter you age: ")
+age= input()
+print("your current age is",age)
+print("Your age after 3 years:",int(age)+3)
